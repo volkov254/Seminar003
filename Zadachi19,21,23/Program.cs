@@ -3,7 +3,7 @@
 Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.*/
 
 
-Console.WriteLine("Введите число: ");
+/*Console.WriteLine("Введите число: ");
 string number = Console.ReadLine();
 int len = number.Length;
 
@@ -28,7 +28,7 @@ else
 Задача 21 (branch task_2)
 Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.*/
 
-int x1 = ReadInt("Введите координату X первой точки: ");
+/*int x1 = ReadInt("Введите координату X первой точки: ");
 int y1 = ReadInt("Введите координату Y первой точки: ");
 int z1 = ReadInt("Введите координату Z первой точки: ");
 int x2 = ReadInt("Введите координату X второй точки: ");
@@ -46,7 +46,7 @@ int ReadInt(string message)
 {
     Console.Write(message);
     return Convert.ToInt32(Console.ReadLine());
-}
+}*/
 
 /*
 Задача 23
